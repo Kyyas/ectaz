@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** define.h
-** File description:
-** header file for the defines
-*/
-
 #ifndef DEFINES_H_
 #define DEFINES_H_
 

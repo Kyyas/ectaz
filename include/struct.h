@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** Header
-** File description:
-** Struct header
-*/
-
 #ifndef __STRUCT_H_
 #define __STRUCT_H_
 

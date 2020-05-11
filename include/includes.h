@@ -1,11 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** include.h
-** File description:
-** header files for all the includes
-*/
-
-
 #ifndef INCLUDES_H_
 #define INCLUDES_H_
 
