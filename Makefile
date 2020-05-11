@@ -1,10 +1,3 @@
-##
-## EPITECH PROJECT, 2019
-## makefile
-## File description:
-## make files
-##
-
 ################################   COMPILATION FILES   #######################
 
 ########## SRC ##############
